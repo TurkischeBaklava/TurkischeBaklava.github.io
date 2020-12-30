@@ -11,7 +11,7 @@ order: 4
 ---
 Alper Oguzhan Gunes
 ============
-Game Developer, Programmer
+Programmer
 
 _Studying at Beykoz University as a 4th year student, taking online Computer Science classes from Open Source Society University, runs game design website called Ludologin.com…_
 
@@ -46,7 +46,7 @@ Game design and development focused website.
 2017-2021 (expected)
 :   **Bachelor, Digital Game Design**; Beykoz University (Istanbul)
 
-> *GPA: 2.94*
+> *GPA: 2.94* 
 
 2019-2019 
 :   **Erasmus, Computer Graphics**; University of Information Technology and Management (Rzeszow / Poland)
