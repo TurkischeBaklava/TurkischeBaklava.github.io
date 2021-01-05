@@ -77,3 +77,5 @@ Potpourri
 * Favourite Bands: Gorillaz ,Pink Floyd, Scorpions, Aerosmith, Guns N' Roses, Red Hot Chili Peppers, Audioslave, Rous 
 
 * I have watched most of British comedies.
+
+* I have traveled more than 25 countries so far, lived in Poland 5 months and the UK for a year.
