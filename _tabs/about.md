@@ -78,4 +78,4 @@ Potpourri
 
 * I have watched most of British comedies.
 
-* I have traveled more than 25 countries so far, lived in Poland five months and the UK for a year.
+* I have traveled more than 25 countries so far, stayed in Poland for five months and lived in the UK for a year.
