@@ -5,11 +5,6 @@ categories: [Programming Languages, Section 7]
 tags: [pl part b] 
 ---
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 5d5d5ebafad806c43a264113246532c1ccb42831
 ## Type Checking 
 
 The process of verifying and enforcing the constraints of types—type checking—may occur either at **compile time** (a static check) or at **run-time** (a dynamic checking). If a language specification requires its typing rules strongly (i.e., more or less allowing only those automatic type conversions that do not lose information), one can refer to the process as strongly typed, if not, as weakly typed. The terms are not usually used in a strict sense.
