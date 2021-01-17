@@ -4,8 +4,8 @@ title: Type Checking
 date: 2021-01-13 00:35:29 +/-TTTT
 categories: [Programming Languages, Section 7]
 tags: [pl part b] 
-
 ---
+
 
 ## Type Checking 
 
@@ -35,26 +35,6 @@ Dynamic type checking is the process of verifying the type safety of a program a
 By definition, dynamic type checking may cause a program to fail at runtime. In some programming languages, it is possible to anticipate and recover from these failures. In others, type-checking errors are considered fatal.
 
 Programming languages that include dynamic type checking but not static type checking are often called "dynamically typed programming languages". 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
