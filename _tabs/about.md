@@ -69,7 +69,7 @@ while staying up to date with **market data** and **player feedbacks**.
 > ### HES Games &ensp; 06/20 - 12/20
 
 - Started as an intern junior **generalist programmer** for a **FPS title**.
-- Programmed and improved part of **audio system, UI and HUD**.
+- Programmed and improved part of the **audio system, UI and HUD**.
 - Responsible for creating simple blueprint designs and helped level designers in
 that manner.
 
@@ -94,13 +94,13 @@ that manner.
 
 <br/>
 
-### Turkish Naval Academy &ensp; Computer Engineering (Expelled) &ensp; 2017
+### Turkish Naval Academy &ensp; Computer Engineering (Attended) &ensp; 2017
 
 <br/><br/><br/>
 
 # Technical Skills
 ---
-- ### C++ (14,17) &nbsp; C99 &nbsp; C# 
+- ### C++ 14 17 &nbsp; C99 &nbsp; C# 
 - ### Unreal Engine &nbsp; Unity Engine &nbsp; 3D Math
 - ### STL &nbsp; SDL &nbsp; SQL    
 - ### Github &nbsp; SVN &nbsp; Perforce &nbsp; Jira
