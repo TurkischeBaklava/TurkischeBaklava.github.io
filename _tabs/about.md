@@ -52,7 +52,7 @@ and accessible presentations of projects.
 
 ## Game Developer (Unreal Engine, Unity Engine)
 
-> ### MountQ Studios &ensp; 05/2021 - 09/22
+> ### MountQ Studios &ensp; 05/21 - 09/22
 
 - Started as an **Unity** game developer for mobile games, developing a wide range
 of **hyper-casual, casual and idle games**.
