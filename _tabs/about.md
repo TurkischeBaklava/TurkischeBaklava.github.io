@@ -13,7 +13,7 @@ order: 4
 
 ## Unreal Engine Developer (VR) 
 
-> ### Figment Productions &ensp; 06/23 - Present
+> ### [Figment Productions](https://figmentproductions.co.uk/) &ensp; 06/23 - Present
 
 - Developed and integrated the **Observer System** in Unreal Engine **VR** games,
 enabling the capture of cinematic shots and enhancing **player experiences**.
@@ -25,9 +25,9 @@ web services, enhancing the multiplayer functionality of the game.
 
 <br/>
 
-## Unreal Engine Developer (Arcviz)
+## Unreal Engine Developer (Architecture Visualization)
 
-> ### Baya Dynamics &ensp; 09/22 - Present 
+> ### [Baya Dynamics](https://bayadynamics.com/) &ensp; 09/22 - Present 
 
 - Utilized **C++** and **Blueprints** programming to develop and implement
 architecture visualization in Unreal Engine for various projects.
@@ -49,7 +49,7 @@ and accessible presentations of projects.
 
 ## Game Developer (Unreal Engine, Unity Engine)
 
-> ### MountQ Studios &ensp; 05/21 - 09/22
+> ### [MountQ Studios](https://mountqstudios.com/) &ensp; 05/21 - 09/22
 
 - Started as an **Unity** game developer for mobile games, developing a wide range
 of **hyper-casual, casual and idle games**.
@@ -84,7 +84,7 @@ that manner.
 
 <br/>
 
-## UITM Rzeszow &ensp; Poland 2018-2019
+## UITM Rzeszow &ensp; 2018-2019
 ### Computer Graphics (Erasmus+)
 - Fundamentals of 3D Graphics
 - Motion and Animation
