@@ -101,3 +101,20 @@ that manner.
 - ### Unreal Engine &nbsp; Unity Engine &nbsp; 3D Math
 - ### STL &nbsp; SDL &nbsp; SQL    
 - ### Github &nbsp; SVN &nbsp; Perforce &nbsp; Jira
+
+<br/>
+
+
+<div align="center">
+<img src="/assets/img/say_my_name.gif"
+    width="300"
+    height="100" />
+</div>
+
+
+<div align="center">
+<audio controls>
+  <source src="/assets/pronunciation_tr_alper.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
