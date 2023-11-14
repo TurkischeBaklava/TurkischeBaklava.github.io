@@ -1,8 +1,7 @@
 ---
 title: Type Checking
 date: 2021-01-13 00:35:29 +/-TTTT
-categories: [Programming Languages, Section 7]
-tags: [pl part b] 
+
 ---
 
 ## Type Checking 

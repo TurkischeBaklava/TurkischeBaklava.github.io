@@ -1,8 +1,7 @@
 ---
 title: Map, Filter And Fold
 date: 2020-12-28 01:10:29 +/-TTTT
-categories: [Programming Languages, Section 3]
-tags: [pl part a]  
+
 ---
 
 ## Map

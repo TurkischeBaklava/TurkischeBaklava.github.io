@@ -1,8 +1,6 @@
 ---
 title: Bindings, Syntax, Type-Checking and Evaulation Rules in SML
 date: 2020-12-25 01:29:29 +/-TTTT
-categories: [Programming Languages, Section 1]
-tags: [pl part a]     
 ---
 
 ### Expressions And Variable Bindings in ML

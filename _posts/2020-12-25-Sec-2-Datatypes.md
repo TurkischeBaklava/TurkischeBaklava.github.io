@@ -1,8 +1,7 @@
 ---
 title: Data Types And Case Expression
 date: 2020-12-26 00:35:29 +/-TTTT
-categories: [Programming Languages, Section 2]
-tags: [pl part a] 
+
 ---
 A programming language should categorize its variables into some types at some point during the life cycle of a program.
 We can categorize the types into two as _base types_ and _compound types_.

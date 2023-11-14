@@ -1,8 +1,7 @@
 ---
 title: Tail Call Optimization
 date: 2020-12-26 01:19:29 +/-TTTT
-categories: [Programming Languages, Section 2]
-tags: [pl part a] 
+
 ---
 
 One of the characteristic features of functional programming is recursion concept.

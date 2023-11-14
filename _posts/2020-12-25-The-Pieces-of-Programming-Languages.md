@@ -1,8 +1,7 @@
 ---
 title: The Pieces of Programming Languages
 date: 2020-12-25 20:20:29 +/-TTTT
-categories: [Programming Languages, Section 1]
-tags: [pl part a] 
+
 ---
 
 ## Essential "pieces" necessary for defining and learning any programming language: 

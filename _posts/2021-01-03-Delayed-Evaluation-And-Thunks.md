@@ -1,8 +1,7 @@
 ---
 title: Delayed Evaluation and Thunks
 date: 2021-01-03 01:29:29 +/-TTTT
-categories: [Programming Languages, Section 5]
-tags: [pl part b]     
+   
 
 ---
 
