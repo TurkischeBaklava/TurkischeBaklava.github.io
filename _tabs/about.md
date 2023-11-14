@@ -104,13 +104,6 @@ while staying up to date with **market data** and **player feedbacks**.
 
 
 <div align="center">
-<img src="/assets/img/say_my_name.gif"
-    width="300"
-    height="100" />
-</div>
-
-
-<div align="center">
 <audio controls>
   <source src="/assets/pronunciation_tr_alper.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
