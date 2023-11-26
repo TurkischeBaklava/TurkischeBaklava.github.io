@@ -26,9 +26,12 @@ int* foo = new (buffer_stack) int[10];
 char* memory = new char [10 * sizeof(int)];
 void* place = memory;   // This step is just here to make code obvious
 int* f = new (place) int[10];
+
+// new (memory) constructs the User object and places it at the specified memory location
+auto memory = std::malloc(sizeof(User)); 
+auto user = new (memory) User("alper"); 
 ```
 
-It conceptually works similar to ``malloc()``. Size is calculated manually whereas compiler calculates the size for when the new operator is called.
 
 <br/>
 
