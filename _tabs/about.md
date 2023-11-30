@@ -95,7 +95,7 @@ while staying up to date with **market data** and **player feedbacks**.
 
 # Technical Skills
 ---
-- ### C++ 14 17 &nbsp; C99 &nbsp; C# 
+- ### C++ 14 11 &nbsp; C99 &nbsp; C# 
 - ### Unreal Engine &nbsp; Unity Engine &nbsp; 3D Math
 - ### Virtual Reality &nbsp; Gameplay &nbsp; Tools    
 - ### Github &nbsp; SVN &nbsp; Perforce &nbsp; Jira
