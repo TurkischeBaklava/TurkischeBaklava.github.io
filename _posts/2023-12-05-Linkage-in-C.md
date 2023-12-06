@@ -95,7 +95,11 @@ ext_int: 100 (main2.c)
 s_int: 55 (main2.c) 
 
 ```
+<br/>
 
+> `inline` functions
+>
+> The real reason why `inline` function definitons are permitted in header files: it is because `inline` functions have _internal linkage_ by default, just as if they had been declared `static`.
 
 <br/>
 
@@ -106,4 +110,4 @@ s_int: 55 (main2.c)
 
 [C++ Primer, 792](https://www.oreilly.com/library/view/c-primer-fifth/9780133053043/)
 
-[Game Engine Architecture, 149](https://www.gameenginebook.com/)
+[Game Engine Architecture, 149-151](https://www.gameenginebook.com/)
