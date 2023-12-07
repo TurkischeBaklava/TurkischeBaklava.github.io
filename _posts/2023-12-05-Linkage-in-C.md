@@ -103,6 +103,16 @@ s_int: 55 (main2.c)
 
 <br/>
 
+### Don't get confused with `static` keyword. It can refer to a lot of things.
+- When used at file scope, `static` means "restrict the visibility of this variable or function so it can only be seen inside this .cpp file".
+- When used at function scope, `static` means "this variable is a global, not an automatic, but it can only be seen inside this function".
+- When used inside a `struct` or `class` declaration, static means "this variable is not a regular member variable, but instead acts just like a global".
+
+
+
+
+<br/>
+<br/>
 
 [Internal and External Linkage in C++](https://www.goldsborough.me/c/c++/linker/2016/03/30/19-34-25-internal_and_external_linkage_in_c++/)
 
