@@ -12,10 +12,12 @@ I can confidently say that learning is my strongest skill. I've self-taught on a
 - [x] How to Design Programs, Second Edition
 - [x] Programming: Principles and Practice Using C++ by Bjarne Stroustrup (In Progress)
 - [x] C++ Primer by Stanley Lippman (In Progress)
-- [ ] The C++ Standard Library by Rainer Grimm
-- [ ] C++ High Performance: Master the art of optimizing the functioning of your C++ code by Bjorn Andrist, Viktor Sehr
+- [ ] C++ High Performance by Bjorn Andrist, Viktor Sehr
+- [ ] Beautiful C++ by J. Guy Davidson, Kate Gregory 
 - [ ] The Rust Programming Language by Steve Klabnik, Carol Nichols
 - [ ] Crafting Interpreters by Robert Nystrom
+- [ ] The C++ Standard Library by Rainer Grimm
+- [ ] Embracing Modern C++ Safely by John Lakos
 
 ### Computer Graphics
 
@@ -61,8 +63,8 @@ I can confidently say that learning is my strongest skill. I've self-taught on a
 - [x] Programming Languages, Part C 
 - [x] Object-Oriented Design
 - [x] Professional Game Development in C++ and Unreal Engine by Tom Looman
+- [x] CS 4600 Introduction to Computer Graphics
 - [x] 3D Computer Graphics Programming (In Progress)
-- [x] CS 4600 Introduction to Computer Graphics (In Progress)
 - [ ] CS/ECE4795 GPU Programming for Video Games
 - [ ] Build a Modern Computer from First Principles: From Nand to Tetris
 - [ ] Build a Modern Computer from First Principles: From Nand to Tetris Part II
