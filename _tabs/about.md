@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-*Experienced game developer with 3 years in the industry, working across various platforms and genres. Strong understanding of gameplay and graphics, proficient in C++ and C# languages. Eager to contribute my skills to a team and continue creating engaging and interactive player experiences.*
+*Experienced game developer with 4 years in the industry, working across various platforms and genres. Strong understanding of gameplay and graphics, proficient in C++ and C# languages. Eager to contribute my skills to a team and continue creating engaging and interactive player experiences.*
 
 ---
 
