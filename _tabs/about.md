@@ -12,6 +12,14 @@ order: 1
 
 ## Unreal Engine Developer
 
+> ### [V360 Energy](https://v360energy.com/) (VR) &ensp; 01/24 - Present
+
+- Actively managing the packaging and porting process of various projects to Meta Quest 3, ensuring seamless compatibility and optimal performance on the platform.
+- Innovatively designing and implementing a wide range of gameplay mechanics and systems, enriching the gaming experience and catering to diverse player preferences.
+- Demonstrating proficiency in maintaining and enhancing the existing codebase, conducting thorough debugging, optimization, and refactoring to uphold quality standards and facilitate future development.
+- Leveraging extensive experience with Unity Engine and Sentis to efficiently develop, prototype, and iterate on game features, maximizing productivity and achieving project milestones within deadlines.
+
+
 > ### [Atmospheric Studios](https://atmosphericxr.com/) (VR) &ensp; 10/23 - 11/23
 
 - Developed and integrated various gameplay mechanics for **multiplayer**.
