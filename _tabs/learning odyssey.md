@@ -10,7 +10,7 @@ I can confidently say that learning is my strongest skill. I've self-taught on a
 ### Programming
 
 - [x] How to Design Programs, Second Edition
-- [x] Programming: Principles and Practice Using C++ by Bjarne Stroustrup (In Progress)
+- [x] Programming: Principles and Practice Using C++ by Bjarne Stroustrup
 - [x] C++ Primer by Stanley Lippman (In Progress)
 - [ ] C++ High Performance by Bjorn Andrist, Viktor Sehr
 - [ ] Beautiful C++ by J. Guy Davidson, Kate Gregory 
