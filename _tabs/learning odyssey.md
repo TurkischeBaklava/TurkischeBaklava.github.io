@@ -64,7 +64,7 @@ I can confidently say that learning is my strongest skill. I've self-taught on a
 - [x] Object-Oriented Design
 - [x] Professional Game Development in C++ and Unreal Engine by Tom Looman
 - [x] CS 4600 Introduction to Computer Graphics
-- [x] 3D Computer Graphics Programming (In Progress)
+- [x] 3D Computer Graphics Programming
 - [ ] CS/ECE4795 GPU Programming for Video Games
 - [ ] Build a Modern Computer from First Principles: From Nand to Tetris
 - [ ] Build a Modern Computer from First Principles: From Nand to Tetris Part II
