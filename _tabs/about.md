@@ -69,7 +69,7 @@ that manner.
 
 ## Game Developer 
 
-> ### [MountQ Studios](https://mountqstudios.com/) &ensp; 05/21 - 09/22
+> ### [MountQ Studios](https://mountqstudios.com/) (Mobile & Desktop) &ensp; 05/21 - 09/22
 
 - Started as an **Unity** game developer for mobile games, developing a wide range
 of **hyper-casual, casual, and idle games**.
