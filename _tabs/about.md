@@ -12,17 +12,24 @@ order: 1
 
 ## Unreal Engine Developer
 
-> ### [V360 Energy](https://v360energy.com/) (VR) &ensp; 01/24 - Present
+> ### [Big-C Interactive](https://big-c.ai/) (Desktop) &ensp; 11/24 - Present
+
+ - Developed an educational rhythm game (Windows) using blueprints and C++.
+ - Designed and implemented game mechanics, UI, and core features from scratch.
+ - Worked in a fast prototyping environment, refining features through iterations.
+
+> ### [V360 Energy](https://v360energy.uk/) (VR) &ensp; 01/24 - Present
 
 - Actively managing the packaging and porting process of various projects to Meta Quest 3, ensuring seamless compatibility and optimal performance on the platform.
-- Innovatively designing and implementing a wide range of gameplay mechanics and systems, enriching the gaming experience and catering to diverse player preferences.
-- Demonstrating proficiency in maintaining and enhancing the existing codebase, conducting thorough debugging, optimization, and refactoring to uphold quality standards and facilitate future development.
-- Leveraging extensive experience with Unity Engine and Sentis to efficiently develop, prototype, and iterate on game features, maximizing productivity and achieving project milestones within deadlines.
+- Innovatively designing and implementing various gameplay mechanics and systems.
+- Using Unity Engine and Sentis for AI development in XR.
+- Developed native Android apps for content and user management on Quest and Pico devices, positively impacting company business models.
 
 
 > ### [Atmospheric Studios](https://atmosphericxr.com/) (VR) &ensp; 10/23 - 11/23
 
 - Developed and integrated various gameplay mechanics for **multiplayer**.
+- Updated and enhanced a voice chat plugin, exposing more functionality to gameplay. 
 
 
 > ### [Figment Productions](https://figmentproductions.co.uk/) (VR) &ensp; 06/23 - 10/23
@@ -38,16 +45,13 @@ videos.
 > ### [Baya Dynamics](https://bayadynamics.com/) (ArchViz) &ensp; 09/22 - 10/23 
 
 - Utilized **C++** and **Blueprints** programming to develop and implement
-architecture visualization in Unreal Engine for various projects.
+architecture visualization tools in Unreal Engine for various projects.
 - Created and maintained **game mechanics, physics,** and other interactive features
 to enhance user experience.
 - **Worked collaboratively** with a team of architects and designers to
 deliver high-quality rendered results on **tight deadlines**.
-- Continuously **updated** and **improved** programming skills through training
-and self-study.
 - Developed and implemented a variety of **innovative** plugins for architects and
-designers, such as the Annotation **plugin** and Capture **plugin**, to enhance
-their workflow and productivity.
+designers.
 - Integrated and worked with **SQL databases, Amazon Web Services
 DynamoDB, and S3** for seamless data management and storage.
 - Implemented Unreal Engine's **Pixelstreaming** and **web interface** for interactive
@@ -68,12 +72,12 @@ that manner.
 > ### [MountQ Studios](https://mountqstudios.com/) &ensp; 05/21 - 09/22
 
 - Started as an **Unity** game developer for mobile games, developing a wide range
-of **hyper-casual, casual and idle games**.
+of **hyper-casual, casual, and idle games**.
 - Worked as a **gameplay programmer** on a high-quality Action RPG title using
-the cutting-edge **Unreal Engine 5** technology.
+cutting-edge **Unreal Engine 5** technology.
 - Prototyping and testing small gameplay mechanics to have insights.
 - Proven ability to create new game **ideas** and program gameplay mechanics
-while staying up to date with **market data** and **player feedbacks**.
+while staying up to date with **market data** and **player feedback**.
 
 
 <br/>
