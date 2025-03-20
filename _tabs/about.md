@@ -12,13 +12,13 @@ order: 1
 
 ## Unreal Engine Developer
 
-> ### [Big-C Interactive](https://big-c.ai/) (Desktop) &ensp; 11/24 - Present
+> ### [Big-C Interactive](https://big-c.ai/) (Desktop) &ensp; 11/24 - 03/2025
 
  - Developed an educational rhythm game (Windows) using blueprints and C++.
  - Designed and implemented game mechanics, UI, and core features from scratch.
  - Worked in a fast prototyping environment, refining features through iterations.
 
-> ### [V360 Energy](https://v360energy.uk/) (VR) &ensp; 01/24 - Present
+> ### [V360 Energy](https://v360energy.uk/) (VR) &ensp; Freelance
 
 - Actively managing the packaging and porting process of various projects to Meta Quest 3, ensuring seamless compatibility and optimal performance on the platform.
 - Innovatively designing and implementing various gameplay mechanics and systems.
