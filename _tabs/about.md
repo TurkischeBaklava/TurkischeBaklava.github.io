@@ -12,7 +12,7 @@ order: 1
 
 ## Unreal Engine Developer
 
-> ### [Big-C Interactive](https://big-c.ai/) (Desktop) &ensp; 11/24 - 03/2025
+> ### [Big-C Interactive](https://big-c.ai/) (Desktop) &ensp; 11/24 - 03/25
 
  - Developed an educational rhythm game (Windows) using blueprints and C++.
  - Designed and implemented game mechanics, UI, and core features from scratch.
