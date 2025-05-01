@@ -101,10 +101,6 @@ while staying up to date with **market data** and **player feedback**.
 
 <br/>
 
-### Turkish Naval Academy &ensp; Computer Engineering (Attended) &ensp; 2017
-
-<br/>
-
 # Technical Skills
 ---
 - ### C++ 14 11 &nbsp; C99 &nbsp; C# 
