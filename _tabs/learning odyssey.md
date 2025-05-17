@@ -13,7 +13,7 @@ I can confidently say that learning is my strongest skill. I've self-taught on a
 - [x] Programming: Principles and Practice Using C++ by Bjarne Stroustrup
 - [x] C++ Primer by Stanley Lippman (In Progress)
 - [ ] C++ High Performance by Bjorn Andrist, Viktor Sehr
-- [ ] Beautiful C++ by J. Guy Davidson, Kate Gregory 
+- [ ] Effective Modern C++ by Scott Meyers 
 - [ ] The Rust Programming Language by Steve Klabnik, Carol Nichols
 - [ ] Crafting Interpreters by Robert Nystrom
 - [ ] The C++ Standard Library by Rainer Grimm
