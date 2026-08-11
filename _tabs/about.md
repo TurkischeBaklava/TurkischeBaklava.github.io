@@ -1,119 +1,121 @@
 ---
-# the default layout is 'page'
+# The default layout is 'page'
 icon: fa fa-user
 order: 1
+title: Professional Profile
 ---
 
+## Alper Gunes
 
-*Experienced game developer with 4 years in the industry, working across various platforms and genres. Strong understanding of gameplay and graphics, proficient in C++ and C# languages. Eager to contribute my skills to a team and continue creating engaging and interactive player experiences.*
+### Software Developer | Unreal Engine, XR and Interactive Applications
+
+I am a UK-based software developer with six years of professional experience in interactive software, game development, virtual reality and extended reality applications. Since 2020, I have delivered work for UK and international clients across education, energy, architecture, entertainment and industrial technology.
+
+I provide contract software-development services through my limited company, **Ludologin Limited**. Through the company, I undertake client projects, deliver agreed technical work and provide continuing development and support services.
+
+My work covers the full development lifecycle, including requirements analysis, prototyping, implementation, integration, optimisation, testing, deployment and ongoing technical support. I work primarily with Unreal Engine, C++, C#, Kotlin and Android, and I have additional experience with cloud services, databases, real-time communications and content-delivery systems.
+
+This page provides a concise record of my professional background and selected commercial work.
 
 ---
 
+## Professional Experience
 
-## Unreal Engine Developer
+### V360 Energy — XR Software Developer
 
-> ### [Big-C Interactive](https://big-c.ai/) (Desktop) &ensp; 11/24 - 03/25
+**Contract engagement through Ludologin Limited — Ongoing**  
+[v360energy.uk](https://v360energy.uk/)
 
- - Developed an educational rhythm game (Windows) using blueprints and C++.
- - Designed and implemented game mechanics, UI, and core features from scratch.
- - Worked in a fast prototyping environment, refining features through iterations.
+- Develop and maintain virtual reality, extended reality and supporting software for industrial training and monitoring applications.
+- Package, port and optimise Unreal Engine projects for standalone headsets, including Meta Quest 3 and Pico devices.
+- Develop native Android applications for XR content access, user management and device workflows.
+- Implement a hands-free CCTV viewing application for RealWear devices using Kotlin, Android, WebRTC and WebSocket communication.
+- Build systems for camera selection, live video streaming, voice-operated controls and pan-tilt-zoom camera operation.
+- Develop dynamic content-delivery workflows in Unreal Engine using ChunkDownloader, downloadable package files and AWS-hosted deployment data.
+- Integrate AWS services, including S3, DynamoDB, Cognito, Lambda and API Gateway, for content distribution and user access.
+- Diagnose platform-specific performance, video-decoding and deployment issues across Android and XR hardware.
 
-> ### [V360 Energy](https://v360energy.uk/) (VR) &ensp; Freelance
+### Big-C Interactive — Unreal Engine Developer
 
-- Actively managing the packaging and porting process of various projects to Meta Quest 3, ensuring seamless compatibility and optimal performance on the platform.
-- Innovatively designing and implementing various gameplay mechanics and systems.
-- Using Unity Engine and Sentis for AI development in XR.
-- Developed native Android apps for content and user management on Quest and Pico devices, positively impacting company business models.
+**November 2024 – March 2025**  
+[big-c.ai](https://big-c.ai/)
 
+- Developed an educational rhythm game for Windows using Unreal Engine, C++ and Blueprints.
+- Designed and implemented gameplay mechanics, user-interface elements and core application features from the initial prototype.
+- Worked within a rapid prototyping process, testing and refining features through successive development iterations.
 
-> ### [Atmospheric Studios](https://atmosphericxr.com/) (VR) &ensp; 10/23 - 11/23
+### Atmospheric Studios — Unreal Engine Developer
 
-- Developed and integrated various gameplay mechanics for **multiplayer**.
-- Updated and enhanced a voice chat plugin, exposing more functionality to gameplay. 
+**October 2023 – November 2023**  
+[atmosphericxr.com](https://atmosphericxr.com/)
 
+- Developed and integrated gameplay systems for a multiplayer virtual reality project.
+- Extended an existing voice-chat plugin and exposed additional functionality for use within gameplay systems.
+- Supported integration and testing within an established Unreal Engine codebase.
 
-> ### [Figment Productions](https://figmentproductions.co.uk/) (VR) &ensp; 06/23 - 10/23
+### Figment Productions — Unreal Engine Developer
 
-- Developed and integrated the **Observer System** in Unreal Engine **VR** games,
-enabling the capture of cinematic shots and enhancing **player experiences**.
-- Utilized **OBS** (Open Broadcaster Software) in conjunction with Unreal Engine for
-video recording and editing, creating compelling gameplay clips and promotional
-videos.
-- Helped with content optimization and collision navigation system.
+**June 2023 – October 2023**  
+[figmentproductions.co.uk](https://figmentproductions.co.uk/)
 
+- Developed and integrated an observer system for Unreal Engine virtual reality applications.
+- Enabled the production of controlled cinematic views for demonstrations, recordings and promotional material.
+- Integrated Unreal Engine output with OBS for video capture and recording workflows.
+- Supported content optimisation, collision setup and navigation systems.
 
-> ### [Baya Dynamics](https://bayadynamics.com/) (ArchViz) &ensp; 09/22 - 10/23 
+### Baya Dynamics — Unreal Engine Developer
 
-- Utilized **C++** and **Blueprints** programming to develop and implement
-architecture visualization tools in Unreal Engine for various projects.
-- Created and maintained **game mechanics, physics,** and other interactive features
-to enhance user experience.
-- **Worked collaboratively** with a team of architects and designers to
-deliver high-quality rendered results on **tight deadlines**.
-- Developed and implemented a variety of **innovative** plugins for architects and
-designers.
-- Integrated and worked with **SQL databases, Amazon Web Services
-DynamoDB, and S3** for seamless data management and storage.
-- Implemented Unreal Engine's **Pixelstreaming** and **web interface** for interactive
-and accessible presentations of projects.
+**September 2022 – October 2023**  
+[bayadynamics.com](https://bayadynamics.com/)
 
-> ### HES Games (FPS) &ensp; 06/20 - 12/20
+- Developed interactive architectural-visualisation tools using Unreal Engine, C++ and Blueprints.
+- Implemented reusable plugins and tools for architects and designers.
+- Created interactive mechanics, physics-based features and presentation systems for client projects.
+- Integrated SQL databases and AWS services, including DynamoDB and S3, for application data and asset storage.
+- Implemented Unreal Engine Pixel Streaming and related web interfaces for browser-accessible presentations.
+- Collaborated with architects, designers and developers to deliver projects to agreed requirements and deadlines.
 
-- Started as an intern junior **generalist programmer** for a **FPS title**.
-- Programmed and improved part of the **audio system, UI and HUD**.
-- Responsible for creating simple blueprint designs and helped level designers in
-that manner.
+### MountQ Studios — Game Developer
 
+**May 2021 – September 2022**  
+[mountqstudios.com](https://mountqstudios.com/)
 
-<br/>
+- Developed mobile games in Unity across hyper-casual, casual and idle genres.
+- Worked as a gameplay programmer on an action role-playing game developed with Unreal Engine 5.
+- Built and tested gameplay prototypes to assess mechanics and design ideas.
+- Implemented features in response to project requirements, market information and player feedback.
 
-## Game Developer 
+### HES Games — Junior Generalist Programmer
 
-> ### [MountQ Studios](https://mountqstudios.com/) (Mobile & Desktop) &ensp; 05/21 - 09/22
+**June 2020 – December 2020**
 
-- Started as an **Unity** game developer for mobile games, developing a wide range
-of **hyper-casual, casual, and idle games**.
-- Worked as a **gameplay programmer** on a high-quality Action RPG title using
-cutting-edge **Unreal Engine 5** technology.
-- Prototyping and testing small gameplay mechanics to have insights.
-- Proven ability to create new game **ideas** and program gameplay mechanics
-while staying up to date with **market data** and **player feedback**.
+- Joined as an intern and progressed into junior generalist programming work on a first-person shooter project.
+- Developed and improved parts of the audio system, user interface and heads-up display.
+- Created Blueprint functionality and provided technical support to level designers.
 
-
-<br/>
-
-
-# Education
 ---
-## Beykoz University &ensp; 2017-2023
-### Game Development 
- - Programming
- - 3D Math
- - Game and level design
- - Game physics
 
-<br/>
+## Education
 
-## UITM Rzeszow &ensp; 2018-2019
-### Computer Graphics (Erasmus+)
-- Fundamentals of 3D Graphics
-- Motion and Animation
+### Beykoz University
 
-<br/>
+**Game Development — 2017–2023**
 
-# Technical Skills
+Relevant study included programming, 3D mathematics, game and level design, and game physics.
+
+### University of Information Technology and Management, Rzeszow
+
+**Computer Graphics, Erasmus+ — 2018–2019**
+
+Relevant study included the fundamentals of 3D graphics, motion and animation.
+
 ---
-- ### C++ 14 11 &nbsp; C99 &nbsp; C# 
-- ### Unreal Engine &nbsp; Unity Engine &nbsp; 3D Math
-- ### Virtual Reality &nbsp; Gameplay &nbsp; Tools    
-- ### Github &nbsp; SVN &nbsp; Perforce &nbsp; Jira
 
-<br/>
+## Technical Skills
 
-
-<div align="center">
-<audio controls>
-  <source src="/assets/pronunciation_tr_alper.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-</div>
+- **Programming:** C++, C, C#, Kotlin and Blueprint visual scripting
+- **Platforms and engines:** Unreal Engine, Unity, Android, Meta Quest, Pico and RealWear
+- **Specialisms:** Virtual reality, extended reality, interactive software, gameplay systems, development tools and application deployment
+- **Real-time and media technologies:** WebRTC, WebSockets, Pixel Streaming and OBS
+- **Cloud and data:** AWS S3, DynamoDB, Cognito, Lambda, API Gateway, SQL and SQLite
+- **Development tools:** GitHub, Perforce, SVN and Jira
