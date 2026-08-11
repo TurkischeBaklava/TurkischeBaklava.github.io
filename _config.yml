@@ -18,12 +18,12 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Alps # the main title
+title: Alper Gunes
 
-tagline: Something that belongs to me on the internet. Digital notebook. Articles, notes, curriculum vitae and other. # it will display as the sub-title
+tagline: Contract Software Developer · Ludologin Limited
 
-description: >- # used by seo meta and the atom feed
-   Digital notebook. Articles, notes, curriculum vitae and other.
+description: >-
+   Professional profile of Alper Gunes, a contract software developer specialising in Unreal Engine, XR and interactive applications through Ludologin Limited.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://TurkischeBaklava.github.io"
