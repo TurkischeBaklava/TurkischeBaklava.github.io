@@ -3,19 +3,14 @@
 icon: fa fa-user
 order: 1
 title: Professional Profile
+description: Professional background, selected commercial work, education and technical skills of Alper Gunes.
 ---
 
 ## Alper Gunes
 
-### Software Developer | Unreal Engine, XR and Interactive Applications
+My professional work began in game development in 2020 and has since expanded into interactive architectural visualisation, educational applications and industrial XR. Across these projects, I have developed gameplay systems, reusable tools, immersive training software and applications that connect devices, live video and cloud-hosted content.
 
-I am a UK-based software developer with six years of professional experience in interactive software, game development, virtual reality and extended reality applications. Since 2020, I have delivered work for UK and international clients across education, energy, architecture, entertainment and industrial technology.
-
-I provide contract software-development services through my limited company, **Ludologin Limited**. Through the company, I undertake client projects, deliver agreed technical work and provide continuing development and support services.
-
-My work covers the full development lifecycle, including requirements analysis, prototyping, implementation, integration, optimisation, testing, deployment and ongoing technical support. I work primarily with Unreal Engine, C++, C#, Kotlin and Android, and I have additional experience with cloud services, databases, real-time communications and content-delivery systems.
-
-This page provides a concise record of my professional background and selected commercial work.
+The experience below records selected work for UK and international clients, followed by my education and technical skills. For current contract development services through **Ludologin Limited (Company No. 12934833)** and project enquiries, visit the [Services page]({{ '/' | relative_url }}).
 
 ---
 
@@ -23,7 +18,7 @@ This page provides a concise record of my professional background and selected c
 
 ### V360 Energy — XR Software Developer
 
-**Contract engagement through Ludologin Limited — Ongoing**  
+**Ongoing**\
 [v360energy.uk](https://v360energy.uk/)
 
 - Develop and maintain virtual reality, extended reality and supporting software for industrial training and monitoring applications.

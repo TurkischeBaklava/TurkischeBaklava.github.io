@@ -20,10 +20,10 @@ timezone: Europe/London
 
 title: Alper Gunes
 
-tagline: Contract Software Developer · Ludologin Limited
+tagline: Contract Software Developer · Ludologin Limited (Company No. 12934833)
 
 description: >-
-   Professional profile of Alper Gunes, a contract software developer specialising in Unreal Engine, XR and interactive applications through Ludologin Limited.
+   Professional profile of Alper Gunes, a contract software developer specialising in Unreal Engine, XR and interactive applications through Ludologin Limited (Company No. 12934833).
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://TurkischeBaklava.github.io"
@@ -111,8 +111,6 @@ assets:
 
 pwa:
   enabled: true # the option for PWA feature
-
-paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
 

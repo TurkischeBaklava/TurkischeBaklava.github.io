@@ -1,74 +1,50 @@
 ---
-icon: fa fa-rocket
+icon: fas fa-tools
 order: 2
+title: Technical Development
+description: Continuing technical development supporting contract software work in Unreal Engine, XR, Android, real-time communications and cloud delivery.
+permalink: /learning-odyssey/
 ---
 
-I can confidently say that learning is my strongest skill. I've self-taught on a vast array of subjects. Here are the materials I've employed on my learning odyssey.
+Continuing technical development supports the software work I deliver through **Ludologin Limited (Company No. 12934833)**. My focus is on strengthening the engineering skills relevant to client projects, alongside the commercial experience described in my [professional profile]({{ '/about/' | relative_url }}).
 
-## Books
+## Areas of focus
 
-### Programming
+### Unreal Engine and C++
 
-- [x] How to Design Programs, Second Edition
-- [x] Programming: Principles and Practice Using C++ by Bjarne Stroustrup
-- [x] C++ Primer by Stanley Lippman (In Progress)
-- [ ] C++ High Performance by Bjorn Andrist, Viktor Sehr
-- [ ] Effective Modern C++ by Scott Meyers 
-- [ ] The Rust Programming Language by Steve Klabnik, Carol Nichols
-- [ ] Crafting Interpreters by Robert Nystrom
-- [ ] The C++ Standard Library by Rainer Grimm
-- [ ] Embracing Modern C++ Safely by John Lakos
+Language fundamentals, application architecture, gameplay systems and reusable development tools underpin my Unreal Engine work. Continuing study in these areas supports implementation, integration and maintenance within existing codebases.
 
-### Computer Graphics
+### XR and real-time graphics
 
-- [x] Game Engine Architecture by Jason Gregory (In Progress)
-- [ ] Foundations of Game Engine Development, Volume 2: Rendering by Eric Lengyel
-- [ ] WebGPU
+Computer graphics, 3D mathematics and engine architecture provide a foundation for interactive visualisation and immersive applications. Performance and platform constraints are especially relevant when adapting projects for standalone XR hardware.
 
-### Software Engineering
+### Android and device integration
 
-- [x] The Pragmatic Programmer by Andy Hunt and Dave Thomas
-- [ ] Game Programming Patterns by Robert Nystrom
-- [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
-- [ ] Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
-- [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design by Robert C. Martin
-- [ ] Algorithms Hardcover by Robert Sedgewick
-- [ ] 97 Things Every Programmer Should Know: Collective Wisdom from the Experts
+Android and Kotlin development connects application features with device workflows, content access and hands-free interfaces. My development focus includes understanding platform behaviour and diagnosing issues on target hardware.
 
-### Maths and Physics
+### Real-time communications and cloud delivery
 
-- [x] 3D Math Primer for Graphics and Game Development by Fletcher Dunn (In Progress)
-- [ ] Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game by Ian Millington
-- [ ] Foundations of Game Engine Development, Volume 1: Mathematics by Eric Lengyel
-- [ ] University Physics with Modern Physics, Global Edition by Hugh Young, Roger Freedman
+WebRTC, WebSockets and AWS integration are part of my commercial work with live video, camera controls and downloadable content. Continuing development in these areas supports the integration of applications, devices and supporting services.
 
-### Networking
+### Software design and delivery
 
-- [ ] Computer Networks and Internets by Douglas E. Comer
+Program design, testing, debugging and development tooling support work across these platforms. I draw on both technical study and project experience when evaluating implementation choices against client requirements.
 
-### Journals I follow
-- overload
-- C VU
+## Selected study and reference material
 
-<br/>
+The following selection reflects material from my technical studies. It provides context for my development interests; commercial project experience is recorded separately on the professional profile.
 
-## Courses
+| Area | Selected material | Relevance |
+| --- | --- | --- |
+| Programming foundations | *How to Design Programs*, second edition; *Programming: Principles and Practice Using C++* by Bjarne Stroustrup | Program structure, problem solving and C++ fundamentals |
+| Unreal Engine | *Professional Game Development in C++ and Unreal Engine* by Tom Looman | C++ development within Unreal Engine |
+| Engine architecture | *Game Engine Architecture* by Jason Gregory | The organisation and interaction of engine systems |
+| Graphics and mathematics | *3D Math Primer for Graphics and Game Development* by Fletcher Dunn; computer graphics coursework | Spatial reasoning and the foundations of real-time graphics |
+| Engineering practice | *The Pragmatic Programmer* by Andy Hunt and Dave Thomas; *The Missing Semester of Your CS Education* | Maintainability and practical development tooling |
+| Language concepts | *Programming Languages*, Parts A–C; *How to Code: Simple Data* and *Complex Data* | Type systems, data modelling and approaches to program design |
 
-- [x] Introduction To Computer Science And Programming In Python, MIT
-- [x] The Missing Semester of Your CS Education, MIT
-- [x] UBCx: How to Code: Simple Data
-- [x] UBCx: How to Code: Complex Data
-- [x] Programming Languages, Part A 
-- [x] Programming Languages, Part B  
-- [x] Programming Languages, Part C 
-- [x] Object-Oriented Design
-- [x] Professional Game Development in C++ and Unreal Engine by Tom Looman
-- [x] CS 4600 Introduction to Computer Graphics
-- [x] 3D Computer Graphics Programming
-- [ ] CS/ECE4795 GPU Programming for Video Games
-- [ ] Build a Modern Computer from First Principles: From Nand to Tetris
-- [ ] Build a Modern Computer from First Principles: From Nand to Tetris Part II
-- [ ] Raycasting Engine Programming
-- [ ] C++ Game Engine Programming
-- [ ] Game Physics Engine Programming
+## Technical writing
 
+My [technical articles]({{ '/archives/' | relative_url }}) explore programming concepts, including C++ and programming-language fundamentals.
+
+For the development support available for your project, see [Services]({{ '/' | relative_url }}).
