@@ -14,11 +14,13 @@ The experience below records selected work for UK and international clients, fol
 
 ---
 
-## Professional Experience
+## Selected Client Engagements
 
-### V360 Energy — XR Software Developer
+The entries below describe selected contracting services provided to clients. Engagement periods record when services were delivered to each client; they do not indicate exclusive availability or the overall duration of my business activity.
 
-**Ongoing**\
+### Client: V360 Energy — XR Software Development
+
+**Engagement period: Ongoing**\
 [v360energy.uk](https://v360energy.uk/)
 
 - Develop and maintain virtual reality, extended reality and supporting software for industrial training and monitoring applications.
@@ -30,27 +32,27 @@ The experience below records selected work for UK and international clients, fol
 - Integrate AWS services, including S3, DynamoDB, Cognito, Lambda and API Gateway, for content distribution and user access.
 - Diagnose platform-specific performance, video-decoding and deployment issues across Android and XR hardware.
 
-### Big-C Interactive — Unreal Engine Developer
+### Client: Big-C Interactive — Unreal Engine Development
 
-**November 2024 – March 2025**  
+**Engagement period: November 2024 – March 2025**\
 [big-c.ai](https://big-c.ai/)
 
 - Developed an educational rhythm game for Windows using Unreal Engine, C++ and Blueprints.
 - Designed and implemented gameplay mechanics, user-interface elements and core application features from the initial prototype.
 - Worked within a rapid prototyping process, testing and refining features through successive development iterations.
 
-### Atmospheric Studios — Unreal Engine Developer
+### Client: Atmospheric Studios — Unreal Engine Development
 
-**October 2023 – November 2023**  
+**Engagement period: October 2023 – November 2023**\
 [atmosphericxr.com](https://atmosphericxr.com/)
 
 - Developed and integrated gameplay systems for a multiplayer virtual reality project.
 - Extended an existing voice-chat plugin and exposed additional functionality for use within gameplay systems.
 - Supported integration and testing within an established Unreal Engine codebase.
 
-### Figment Productions — Unreal Engine Developer
+### Client: Figment Productions — Unreal Engine Development
 
-**June 2023 – October 2023**  
+**Engagement period: June 2023 – October 2023**\
 [figmentproductions.co.uk](https://figmentproductions.co.uk/)
 
 - Developed and integrated an observer system for Unreal Engine virtual reality applications.
@@ -58,9 +60,9 @@ The experience below records selected work for UK and international clients, fol
 - Integrated Unreal Engine output with OBS for video capture and recording workflows.
 - Supported content optimisation, collision setup and navigation systems.
 
-### Baya Dynamics — Unreal Engine Developer
+### Client: Baya Dynamics — Unreal Engine Development
 
-**September 2022 – October 2023**  
+**Engagement period: September 2022 – October 2023**\
 [bayadynamics.com](https://bayadynamics.com/)
 
 - Developed interactive architectural-visualisation tools using Unreal Engine, C++ and Blueprints.
@@ -70,15 +72,17 @@ The experience below records selected work for UK and international clients, fol
 - Implemented Unreal Engine Pixel Streaming and related web interfaces for browser-accessible presentations.
 - Collaborated with architects, designers and developers to deliver projects to agreed requirements and deadlines.
 
-### MountQ Studios — Game Developer
+### Client: MountQ Studios — Game Development
 
-**May 2021 – September 2022**  
+**Engagement period: May 2021 – September 2022**\
 [mountqstudios.com](https://mountqstudios.com/)
 
 - Developed mobile games in Unity across hyper-casual, casual and idle genres.
 - Worked as a gameplay programmer on an action role-playing game developed with Unreal Engine 5.
 - Built and tested gameplay prototypes to assess mechanics and design ideas.
 - Implemented features in response to project requirements, market information and player feedback.
+
+## Earlier Experience
 
 ### HES Games — Junior Generalist Programmer
 
