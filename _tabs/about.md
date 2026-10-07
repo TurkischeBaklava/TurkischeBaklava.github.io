@@ -14,13 +14,10 @@ The experience below records selected work for UK and international clients, fol
 
 ---
 
-## Selected Client Engagements
+## Selected Clients
 
-The entries below describe selected contracting services provided to clients. Engagement periods record when services were delivered to each client; they do not indicate exclusive availability or the overall duration of my business activity.
+### Client: V360 Energy — XR Software Consultant
 
-### Client: V360 Energy — XR Software Development
-
-**Engagement period: Ongoing**\
 [v360energy.uk](https://v360energy.uk/)
 
 - Develop and maintain virtual reality, extended reality and supporting software for industrial training and monitoring applications.
@@ -32,27 +29,24 @@ The entries below describe selected contracting services provided to clients. En
 - Integrate AWS services, including S3, DynamoDB, Cognito, Lambda and API Gateway, for content distribution and user access.
 - Diagnose platform-specific performance, video-decoding and deployment issues across Android and XR hardware.
 
-### Client: Big-C Interactive — Unreal Engine Development
+### Client: Big-C Interactive — Unreal Engine Consultant
 
-**Engagement period: November 2024 – March 2025**\
 [big-c.ai](https://big-c.ai/)
 
 - Developed an educational rhythm game for Windows using Unreal Engine, C++ and Blueprints.
 - Designed and implemented gameplay mechanics, user-interface elements and core application features from the initial prototype.
 - Worked within a rapid prototyping process, testing and refining features through successive development iterations.
 
-### Client: Atmospheric Studios — Unreal Engine Development
+### Client: Atmospheric Studios — Unreal Engine Consultant
 
-**Engagement period: October 2023 – November 2023**\
 [atmosphericxr.com](https://atmosphericxr.com/)
 
 - Developed and integrated gameplay systems for a multiplayer virtual reality project.
 - Extended an existing voice-chat plugin and exposed additional functionality for use within gameplay systems.
 - Supported integration and testing within an established Unreal Engine codebase.
 
-### Client: Figment Productions — Unreal Engine Development
+### Client: Figment Productions — Unreal Engine Consultant
 
-**Engagement period: June 2023 – October 2023**\
 [figmentproductions.co.uk](https://figmentproductions.co.uk/)
 
 - Developed and integrated an observer system for Unreal Engine virtual reality applications.
@@ -60,9 +54,8 @@ The entries below describe selected contracting services provided to clients. En
 - Integrated Unreal Engine output with OBS for video capture and recording workflows.
 - Supported content optimisation, collision setup and navigation systems.
 
-### Client: Baya Dynamics — Unreal Engine Development
+### Client: Baya Dynamics — Unreal Engine Consultant
 
-**Engagement period: September 2022 – October 2023**\
 [bayadynamics.com](https://bayadynamics.com/)
 
 - Developed interactive architectural-visualisation tools using Unreal Engine, C++ and Blueprints.
@@ -72,9 +65,8 @@ The entries below describe selected contracting services provided to clients. En
 - Implemented Unreal Engine Pixel Streaming and related web interfaces for browser-accessible presentations.
 - Collaborated with architects, designers and developers to deliver projects to agreed requirements and deadlines.
 
-### Client: MountQ Studios — Game Development
+### Client: MountQ Studios — Game Development Consultant
 
-**Engagement period: May 2021 – September 2022**\
 [mountqstudios.com](https://mountqstudios.com/)
 
 - Developed mobile games in Unity across hyper-casual, casual and idle genres.
@@ -84,11 +76,8 @@ The entries below describe selected contracting services provided to clients. En
 
 ## Earlier Experience
 
-### HES Games — Junior Generalist Programmer
+### HES Games — Unreal Engine Generalist Consultant
 
-**June 2020 – December 2020**
-
-- Joined as an intern and progressed into junior generalist programming work on a first-person shooter project.
 - Developed and improved parts of the audio system, user interface and heads-up display.
 - Created Blueprint functionality and provided technical support to level designers.
 
